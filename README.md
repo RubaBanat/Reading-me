@@ -14,6 +14,3 @@ day 2 | [click me](https://github.com/RubaBanat/reading-notes/blob/main/readme03
 
 
 
-reading-notes maintained by [rubabanat](https://github.com/RubaBanat)
-
-Published with [GitHub](https://github.com/) Pages
